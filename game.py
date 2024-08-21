@@ -33,7 +33,7 @@ captured_pieces_white = []
 # 0 - White Turn; No piece Selected 1 - White turn; Piece Selected 2 - Black's Turn; No Piece Selected 3 - Black's Turn; Piece Selected 
 turn_pieces = 0
 #selection is basically giving enough space to check the pieces in the lists (whites_location/blacks_location)
-selection = 100
+selection = 65
 valid_moves = []
 
 
